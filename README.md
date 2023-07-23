@@ -4,7 +4,8 @@ Hi! My name is Gustavo, I'm 17 years old. I"m trying to learn more about program
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tavar3s)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tavar3s&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Tavar3s/Tavar3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
