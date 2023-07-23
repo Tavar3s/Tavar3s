@@ -5,6 +5,7 @@ Hi! My name is Gustavo, I'm 17 years old. I"m trying to learn more about program
 # Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tavar3s&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tavar3s&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
